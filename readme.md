@@ -154,8 +154,6 @@ I would like to thank every who continues supporting me.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 📝 License <a name="license"></a>
 
 - [License](./MIT.md)
