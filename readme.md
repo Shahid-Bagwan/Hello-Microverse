@@ -39,7 +39,7 @@
 
 > This project displays text "Hello World!".
 
-**[Hello Microverse]** is a...
+**[Hello Microverse]**
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -138,9 +138,9 @@ Deploy this project on any websever
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Enoh Collins**
+👤 **Shahid Bagwan**
 
-- GitHub: [@githubhandle](https://github.com/Shahid-Bagwan)
+- GitHub: [@ShahidBagwan](https://github.com/Shahid-Bagwan)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
