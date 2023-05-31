@@ -1,13 +1,5 @@
 <a name="readme-top"></a>
 
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Hello Microverse</b></h3>
-
-</div>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -72,14 +64,6 @@
 ### Key Features <a name="key-features"></a>
 
 - **[Text Displayed]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Demo Link Comming soon](https://google.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -174,6 +158,6 @@ I would like to thank every who continues supporting me.
 
 ## 📝 License <a name="license"></a>
 
-N/A
+- [License](./MIT.md)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
